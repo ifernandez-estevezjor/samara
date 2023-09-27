@@ -531,10 +531,19 @@ section {
 }
 
 .container-logos{
-  margin: 0 auto;
+  text-align: center;
 }
 .img-logo{
-  width: 50%;
+  width: 40%;
+}
+.img-tecmty{
+  margin-top: -30px;
+}
+.img-lasalle{
+  margin-top: 20px;
+}
+.img-tec{
+  margin-top: 30px;
 }
 /*--------------------------------------------------------------
 # Portfolio
@@ -637,6 +646,9 @@ section {
   bottom: 0;
 }
 
+.img-deco{
+  height: 235px;
+}
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
